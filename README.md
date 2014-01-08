@@ -47,7 +47,6 @@ A DataTable Widget for durandal
 - Search Filtering
 - Pagination
 - AJAX Pagination
-
 - Scrolling
 - Actions/events/buttons by row
 - Sortable (drag & drop)

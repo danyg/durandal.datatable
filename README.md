@@ -12,7 +12,8 @@ A DataTable Widget for durandal
 		rows: results, 
 		lang: lang.columns, 
 		itemPerPage: 10, 
-		search: true
+		search: true,
+		columnsBlackList: ['_id']
 	} -->
 	<!-- /ko -->
 
@@ -38,6 +39,7 @@ A DataTable Widget for durandal
 
 - ToggleSort Columns clicking on the column headers
 - Autocalulate the columns
+- Hide or omit Columns
 - Uses Bootstrap
 
 ##Future Features
@@ -45,7 +47,7 @@ A DataTable Widget for durandal
 - Search Filtering
 - Pagination
 - AJAX Pagination
-- Hide or omit Columns
+
 - Scrolling
 - Actions/events/buttons by row
 - Sortable (drag & drop)

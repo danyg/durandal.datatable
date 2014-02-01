@@ -52,3 +52,5 @@ A DataTable Widget for durandal
 - Sortable (drag & drop)
 - Editing
 - And much much more
+
+[![Analytics](https://ga-beacon.appspot.com/UA-47717226-1/durandal.datatable/home)](https://github.com/igrigorik/ga-beacon)
